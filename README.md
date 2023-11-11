@@ -15,5 +15,5 @@ I'm **java script developer.** *This is Exampleof my code:*
 ```
 This is Unordered list:
 * [My profile in steam](https://steamcommunity.com/profiles/76561199140817467/)
-* [My profile in instagram]([https://steamcommunity.com/profiles/76561199140817467/](https://www.instagram.com/aadrrxx/))
-* [My profile in github]([https://steamcommunity.com/profiles/76561199140817467/](https://github.com/Adrx20)https://github.com/Adrx20)
+* [My profile in instagram](https://www.instagram.com/aadrrxx/)
+* [My profile in github](https://github.com/Adrx20)
