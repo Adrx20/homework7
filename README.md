@@ -10,6 +10,8 @@ I'm **java script developer.** *This is Exampleof my code:*
         } else {
             $(".block-1").text("Description g Ruleses ▼")
         }
-        count =! count
+        count =! count;
       });
 ```
+This is Unordered list:
+* [Github](https://github.com/)
