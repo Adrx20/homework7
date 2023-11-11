@@ -1,3 +1,3 @@
 # This is my repository 
 ### **My name is cat** 
-![GitHub](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM_TV2o6IKjWK5A2Ve3S3Wbdq-NpX-jy0NHP1uaokb&s)
+![GitHub](https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg)
