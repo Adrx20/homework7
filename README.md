@@ -4,12 +4,12 @@
 I'm **java script developer.** *This is Exampleof my code:*
 ``` С++
       for (int i = 0; i < a.size(); i++) {
-              for (int j = 0; j < a.size() - 1; j++) {
+            for (int j = 0; j < a.size() - 1; j++) {
                   if (a[j] > a[j + 1]) {
                       swap(a[j], a[j + 1]);
                   }
-              }
-          }
+            }
+      }
 ```
 This is Unordered list:
 * [My profile in steam](https://steamcommunity.com/profiles/76561199140817467/)
